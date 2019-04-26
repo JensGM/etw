@@ -1,8 +1,10 @@
 # etw #
 
 [![pypi](https://img.shields.io/pypi/v/etw.svg)](https://pypi.python.org/pypi/etw)
-[![travis](https://img.shields.io/travis/Equinor/etw.svg?label=travis)](https://travis-ci.org/Equinor/etw)
-[![readthedocs](https://readthedocs.org/projects/etw/badge/?version=latest)](https://etw.readthedocs.io/en/latest/?badge=latest)Edge Time Warp
+[![travis](https://img.shields.io/travis/equinor/etw.svg?label=travis)](https://travis-ci.org/equinor/etw)
+[![readthedocs](https://readthedocs.org/projects/etw/badge/?version=latest)](https://etw.readthedocs.io/en/latest/?badge=latest)
+
+etw: package generated with cookiecutter-equinor
 
 ## Index ##
 
@@ -39,8 +41,8 @@ feature requests, and documentation.
 
 ## Examples ##
 
-### Hello world ###
+### Example 1 ###
 
 ```python3
-    print('Hello world')
+    pass
 ```
